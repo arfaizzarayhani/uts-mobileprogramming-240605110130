@@ -1,9 +1,7 @@
 # Sela — Cerita Perjalanan
 
 Sela adalah panduan perjalanan lokal yang mengajak pengguna mengenal tempat
-dan cerita di baliknya. Desainnya memakai pendekatan editorial yang hangat:
-warna bumi, judul bergaya majalah, foto destinasi, dan catatan praktis untuk
-menghormati lingkungan serta warga setempat.
+dan cerita di baliknya.
 
 ## Halaman
 
